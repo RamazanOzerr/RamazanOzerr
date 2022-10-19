@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramazan Ozer</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **Android Studio with Java**
+- 🌱 I’m currently learning **Native Android Development with Android Studio / Java**
 
 - 📫 How to reach me **ozerramazan991@gmail.com**
 
