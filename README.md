@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan Ozer</h1>
-<h3 align="center">A passionate Computer Engineering student from Turkey</h3>
-
-- 🌱 I’m currently learning **Backend Development**
+<h3 align="center">Software Engineer | Backend & Mobile Developer</h3>
 
 - 📫 How to reach me **ozerramazan991@gmail.com**
 
